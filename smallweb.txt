@@ -8705,6 +8705,7 @@ https://wasmoke.blogspot.com/feeds/posts/default
 https://wasteofserver.com/rss/
 https://watered-down-physics.blogspot.com/feeds/posts/default
 https://waterpigs.co.uk/services/microformats-to-atom/?url=https%3A//waterpigs.co.uk
+https://watzon.tech/posts/rss.xml
 https://wavelengths.blog/rss
 https://waxy.org/feed/
 https://waylau.com/feed.xml
